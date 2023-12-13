@@ -1,4 +1,5 @@
 ### Hi there 👋
+Всем привет). Тут будет расположены мои работы по информатике, а так же мои личные проекты. 
 
 <!--
 **IliaGrigorev123/IliaGrigorev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
